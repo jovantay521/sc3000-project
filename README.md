@@ -31,8 +31,7 @@ Example (Visual Studio Code):
 code cartpole-q-learning.ipynb
 code cartpole-dqn.ipynb
 ```
-
-
+[Our Agent](https://github.com/jovantay521/sc3000-project/assets/79072507/63bfcc7a-df61-4da3-aa1f-cd4217746144)
 ## Credits
 - Tay Jovan (U2223490G) @jovantay521 - Q Learning code (33.3%)
 - Nicholas Koh (U2222992D) @Nic-Koh - Deep Q Learning code (33.3%)
